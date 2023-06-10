@@ -31,3 +31,4 @@ Use the following command to create a `neonbee-dist.tar.gz` distribution archive
 ```console
 gradlew build
 ```
+
